@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+
 
 [LIVE DEMO](https://haseeb943.github.io/leadersboard/)
 
